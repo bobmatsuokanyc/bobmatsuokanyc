@@ -3,7 +3,7 @@
 <p align="center">Bob Matsuoka is a blogger and founder of RVing Beginner blog. He has been blogging for over five years, writing about his own family’s RV adventures, tips for people who are interested in buying an RV or taking their family on an adventure by RV.</p>
 <p align="center">
   <a href="https://www.rvingbeginner.com/author/bobmatsuoka" alt="website" target="_blank">
-    <img src="https://www.rvingbeginner.com/wp-content/uploads/2022/07/logo.png">
+    <img src="https://www.rvingbeginner.com/wp-content/uploads/2022/06/cropped-favicon-32x32.png">
   </a>
   <a href="https://www.facebook.com/bobmatsuoka.nyc" alt="facebook" target="_blank">
     <img src="https://static.xx.fbcdn.net/rsrc.php/yD/r/d4ZIVX-5C-b.ico">
